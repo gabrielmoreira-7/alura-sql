@@ -1,0 +1,9 @@
+CHAR (String de caracteres de tamanho fixo, máximo de 8000 caracteres.)
+VARCHAR (String de caracteres de tamanho variável, máximo de 8000 caracteres.) 
+
+BIT (valor booleano = 0,1 ou nulo) 
+smallint (Números inteiros de -32.768 a 32.767) armazenamento = 2 bytes 
+int (Número inteiros entre -2.147.483.648 e 2.147.483.647) armazenamento = 4 bytes 
+float (Número de ponto flutuante entre -1,79 x 10^308 a 1,79 x 10^308) armazenamento = 8 bytes 
+
+
