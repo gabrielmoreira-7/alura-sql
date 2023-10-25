@@ -1,7 +1,10 @@
 CREATE DATABASE db_name; => Cria uma base de dados 
 DROP DATABASE db_name; => Apaga uma base de dados 
+USE db_name; => Criado o banco de dados ou já tendo algum deles no seu computador, você pode utilizar o comando USE para selecionar o banco de dados.
 
 CREATE TABLE table_name ( => Cria uma tabela 
 TIPO_DO_DADO nome_da_coluna, 
 TIPO_DO_DADO nome_da_coluna
 ) 
+
+DROP table_name; => Apaga uma tabela
